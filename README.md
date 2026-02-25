@@ -2,6 +2,8 @@
 
 .env файл
 
+---/-------------------/--------------/
+
 DB_HOST=localhost
 
 DB_USER=root
@@ -9,6 +11,8 @@ DB_USER=root
 DB_PASSWORD=
 
 DB_NAME=e_commerce
+
+---/-------------------/--------------/
 
 Сервер асаах:
 npm run dev
